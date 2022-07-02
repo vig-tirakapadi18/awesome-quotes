@@ -9,7 +9,7 @@ body {
     min-height: 100vh;
     background-color: #ffffff;
     /* background-image: url("https://wallpaperaccess.com/full/537110.jpg"); */
-    background-image: url("bg.jpg");
+    background-image: url("bg.jpg"),url("bg1.jpg");
     background-size: cover;
     color: black;
     font-family: 'Arima', sans-serif;
